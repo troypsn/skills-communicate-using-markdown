@@ -11,3 +11,6 @@ let title = document.getElementById('title-id');
 - [x] Turn off the lights
 - [ ] Listen to Puppy - Brockhampton
 - [ ] Go out for a walk
+- [ ] Minecraft
+- [ ] Eat out for Drunch
+
